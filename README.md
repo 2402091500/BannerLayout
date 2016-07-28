@@ -64,4 +64,4 @@ bannerLayout.setOnBannerItemClickListener(new BannerLayout.OnBannerItemClickList
 ```
 
 ###关于我
-简书：[dongjunkun](http://www.jianshu.com/users/f07458c1a8f3/latest_articles)
+简书：[MRLi](http://www.jianshu.com/users/99696a08a099/latest_articles)
